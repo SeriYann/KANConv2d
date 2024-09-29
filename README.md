@@ -5,7 +5,7 @@
 KANConv2D provides implementations of various Kolmogorov-Arnold Network (KAN) layers in Conv2D format, utilizing different types of activation functions.
 
 ## Available Layers
-- **KANConv2d**: Convolutional version of the original B-Spline based KAN, can be used as a replacement for `nn.Conv2D`.
+- **KANConv2d**: Convolutional version of the original B-Spline based KAN.
 - **FastKANConv2d**: Uses Radial Basis Functions (RBF) as the activation function, a faster variant of `KANConv2D`.
 - **FasterKANConv2d**: Employs the Reflectional Switch Activation Function (RSWAF).
 - **ChebyKANConv2d**: Utilizes Chebyshev polynomials as the activation function.

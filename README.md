@@ -1,5 +1,5 @@
-# KANConv2D
-2D Convolutional KAN Layers with different activation functions.
+# KANConv2d
+2D Convolutional KAN Layers with different types of activation functions.
 
 ## Overview
 KANConv2D provides implementations of various Kolmogorov-Arnold Network (KAN) layers in Conv2D format, utilizing different types of activation functions.
